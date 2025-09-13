@@ -16,3 +16,12 @@ Ferramenta web que calcula a quantidade de laudas (padrão editorial) em um text
 - JavaScript  
 
 ---
+## ▶️ Como executar
+
+Clone este repositório:
+
+```bash
+git clone https://github.com/Rnt-Oliveira/Conversor-de-Laudas.git
+```
+## Abra o arquivo index.html diretamente no navegador
+(não precisa de servidor local para rodar)
